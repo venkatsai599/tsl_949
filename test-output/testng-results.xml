@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4071" started-at="2021-09-21T23:14:03Z" finished-at="2021-09-21T23:14:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4071" started-at="2021-09-21T23:14:03Z" finished-at="2021-09-21T23:14:07Z">
+      <class name="whetherApi.whether">
+        <test-method status="PASS" signature="gettingwhtherinfo()[pri:0, instance:whetherApi.whether@4df50bcc]" name="gettingwhtherinfo" duration-ms="3360" started-at="2021-09-21T23:14:03Z" description="getting Whether information of specific city" finished-at="2021-09-21T23:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingwhtherinfo -->
+        <test-method status="PASS" signature="gettingwhtherinfo2()[pri:0, instance:whetherApi.whether@4df50bcc]" name="gettingwhtherinfo2" duration-ms="326" started-at="2021-09-21T23:14:06Z" description="getting Whether information of specific city" finished-at="2021-09-21T23:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingwhtherinfo2 -->
+        <test-method status="PASS" signature="gettingwhtherinfo3()[pri:0, instance:whetherApi.whether@4df50bcc]" name="gettingwhtherinfo3" duration-ms="177" started-at="2021-09-21T23:14:07Z" description="getting Whether information of specific city" finished-at="2021-09-21T23:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingwhtherinfo3 -->
+        <test-method status="PASS" signature="gettingwhtherinfo4()[pri:0, instance:whetherApi.whether@4df50bcc]" name="gettingwhtherinfo4" duration-ms="119" started-at="2021-09-21T23:14:07Z" description="getting Whether information of specific city" finished-at="2021-09-21T23:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingwhtherinfo4 -->
+      </class> <!-- whetherApi.whether -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
